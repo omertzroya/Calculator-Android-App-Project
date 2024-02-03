@@ -4,7 +4,7 @@
 This Android app is a calculator app developed using Java and the Android Studio IDE. It provides basic arithmetic operations, including addition, subtraction, multiplication, division, modulus, and square root.
 
 ## Screenshots
-![Screenshot 1](screenshot.png)
+![Screenshot 1](Sreenshots.png)
 
 ## Features
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
