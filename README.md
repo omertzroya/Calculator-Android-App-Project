@@ -16,7 +16,7 @@ This Android app is a calculator app developed using Java and the Android Studio
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/example/calculator.git
+   git clone https://github.com/omertzroya/Calculator-Android-Project.git
    ```
 
 2. Open the project in Android Studio.
